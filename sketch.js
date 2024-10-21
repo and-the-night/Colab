@@ -1,4 +1,4 @@
-const NGrokAddress = "https://cockatoo-sterling-safely.ngrok-free.app/";
+const NGrokAddress = "https://cockatoo-sterling-safely.ngrok-free.app";
 
 let promptsSlider;
 let slider;
